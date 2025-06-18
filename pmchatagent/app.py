@@ -1,25 +1,35 @@
-
+# app.py
 import streamlit as st
-from chatbot import get_qa_chain, load_vectorstore
-import os
+from chatagent import get_qa_chain, load_vectorstore
 
-# Set up Streamlit interface
+# Set up the page configuration
 st.set_page_config(page_title="Project Management Chatbot", layout="wide")
 
-# Load vectorstore and QA chain
-if 'qa_chain' not in st.session_state:
-    st.session_state.qa_chain = get_qa_chain()
+# Title of the web app
+st.title("Project Management Chatbot")
 
-# Set up page title and description
-st.markdown("This chatbot uses project management methodology to answer your questions.")
+# Instructions
+st.write("""
+    Welcome to the Project Management Chatbot! You can ask questions about project management methodologies.
+    Try asking me anything like:
+    - What is Agile?
+    - How does Scrum work?
+    - What are the advantages of using Kanban?
+""")
 
-# Ask user for their query
-user_input = st.text_input("Ask a question about Project Management:", "")
+# Add an input box for user query
+user_query = st.text_input("Ask a question:")
 
-# Check if there is any input and process the query
-if user_input:
-    response = st.session_state.qa_chain.run(user_input)
-    st.write("Answer:", response)
-else:
-    st.write("Please ask a question.")
+# If the user submits a query
+if user_query:
+    # Load the vectorstore (this should load the project management data)
+    vectorstore = load_vectorstore()
 
+    # Get the QA chain for answering questions
+    qa_chain = get_qa_chain(vectorstore)
+
+    # Get the answer from the chain
+    answer = qa_chain.run(user_query)
+
+    # Display the answer
+    st.write(answer)

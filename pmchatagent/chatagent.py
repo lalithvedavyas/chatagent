@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-load load_dotenv() # This loads the .env file
+load_dotenv() # This loads the .env file
 # chatagent.py
 
 

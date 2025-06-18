@@ -1,0 +1,167 @@
+What Is a Project Management Methodology?
+A project management methodology is a set of principles, tools and techniques that are used to plan, execute and manage projects. Project management methodologies help project managers lead team members and manage work while facilitating team collaboration.
+
+We’ll go through some of the most popular project management methodologies, which are applied in many sectors such as software development, R&D and product development.
+
+Why Use One of These Project Management Methodologies?
+Consider the main goals of any project; to deliver it on time and within budget while still focusing on quality. A project management methodology can help an organization do exactly that. They provide a consistent, structured approach to organizing tasks, allocating resources and achieving the project’s short-term and long-term goals.
+
+Reducing risk is another important aspect of using project management methodologies. With a methodological approach, project managers have the tools they need to identify and reduce risks before they impact the project. As each team member has clear marching orders, expectations are clear and stakeholders understand what to expect.
+
+Methodologies also include performance metrics and control mechanisms to improve tracking, performance and resource management. Overall, a project management framework has a multitude of benefits and virtually no downsides.
+
+Top 15 Project Management Methodologies
+If you manage projects, you need to learn about project management methodologies. Here’s a quick overview of the most commonly used project management methods that project managers, program managers, project portfolio managers and project management offices (PMOs) can use.
+
+1. Waterfall Methodology
+This may be the most straightforward and linear of all the project management methods in this list, as well as the most traditional approach. The name is apt, as the waterfall methodology is a process in which the phases of the project flow downward. The waterfall model requires that you move from one project phase to another only once that phase has been successfully completed.
+
+When to use it: The waterfall approach is great for manufacturing and construction projects, which are highly structured, and when it’s too expensive to pivot or change anything after the fact. The waterfall method makes use of Gantt charts for planning and scheduling.
+
+Gantt Chart template for Waterfall for Microsoft Excel
+Gantt chart template for waterfall projectsFree download
+2. Agile Methodology
+What it is: In a nutshell, Agile project management is an evolving and collaborative way to self-organize across teams. When implementing the agile methodology, project planning and work management are adaptive, evolutionary in development, seeking early delivery and are always open to change if that leads to process improvement. It’s fast and flexible, unlike waterfall project management.
+
+The agile methodology offers project teams a very dynamic way to work and collaborate and that’s why it is a very popular project management methodology for product and software development. That’s because what we think of as agile really appeared in 2001 with the publication of the “Manifesto for Agile Software Development,” authored by 17 software developers.
+
+When to use it: The practice originated in software development and works well in that culture. How do you know if agile is for you? It has been applied to non-software products that seek to drive forward with innovation and have a level of uncertainty, such as computers, motor vehicles, medical devices, food, clothing, music and more. It’s also being used in other types of projects that need a more responsive and fast-paced production schedule, such as marketing.
+
+Agile Sprint Plan Template
+Sprint plan template for agile projectsTry it now
+3. Scrum Methodology
+What it is: Scrum is a short “sprint” approach to managing projects. The scrum methodology is ideal for teams of no more than 10 people and often is wedded to two-week cycles with short daily meetings, known as daily scrum meetings. It’s led by what is called a scrum master. Scrum works within an agile project management framework, though there have been attempts to scale Scrum to fit larger organizations.
+
+The term scrum was introduced in a “Harvard Business Review” article from 1986 by Hirotaka Takeuchi and Ikujiro Nonaka. It became a part of agile when Ken Schwaber and Mike Beedle wrote the book “Agile Software Development with Scrum” in 2001. Schwaber formed the Scrum Alliance in 2002, a certified scrum accreditation series. Schwaber left the Scrum Alliance in 2009 to start a parallel accreditation organization called Scrum.org.
+
+When to use it: Like agile, the scrum methodology has been used predominantly in software development, but proponents note it is applicable across any industry or business, including retail logistics, event planning or any project that requires some flexibility. It does require strict scrum roles, however.
+
+4. Project Management Body of Knowledge (PMBOK)
+What it is: This is the granddaddy of methodologies if it’s a methodology at all. The Project Management Institute (PMI) is a not-for-profit membership association, project management certification and standards organization.
+
+This organization produces a book called the “Project Management Body of Knowledge” or PMBOK. The PMBOK provides definitions and guidelines for project planning, scheduling, executing and controlling. For example, the project management process groups describe the project life cycle, while the 10 project management knowledge areas explain how to manage a project.
+
+When to use it: Almost any project can benefit from PMBOK, as all projects big and small are going to go through the various stages of the project life cycle outlined in the book. It’s a great way to keep everyone on the same page, so to speak, and offers a clear definition of how a project is managed.
+
+The Project Management Institute it’s also the organization that grants various project management certifications such as the project management professional (PMP) certification, which is the gold standard among project managers and is recognized all over the world. PMBOK is a great traditional framework to run a project.
+
+
+Project plan according to the PMBOKFree download
+5. Critical Path Method (CPM)
+What it is: In the critical path method (CPM), you build a model of the project, including all the activities listed in a work breakdown structure, the duration of those tasks, what if any task dependencies there are and marking off milestones to indicated larger phases of the project or points in which your project deliverables are due.
+
+With this information, you can identify the longest sequence of tasks to finish the project, which is called the critical path. You’ll need to keep an eye on those tasks because if one of them is delayed, the whole project will be delayed.
+
+The critical path method was developed in the late 1950s by Morgan R. Walker of DuPont and James E. Kelley, Jr., of Remington Rand. DuPont was already using a precursor of CPM as early as the 1940s, and it was applied to the Manhattan Project.
+
+When to use it: CPM works better with smaller or mid-sized projects. The larger the project, the more difficult it can be to take all the data you need to diagram and make sense of it without project management software.
+
+Free critical path template 
+Free critical path templateDownload now
+6. Critical Chain Project Management (CCPM)
+What it is: In CCPM, you’re focusing on resources that you’ll be using to complete the project, such as teams, equipment, office space, etc. It’s a less technical method of project management that doesn’t put as much emphasis on task order or schedule, but rather on balancing resources and keeping them flexible.
+
+First introduced in 1997, in the book “Critical Path” by Eliyahu M. Goldratt, it has been credited with making projects anywhere from 10-50% faster and/or cheaper.
+
+When to use it: CCPM can be applied to both large and small companies, and for projects that include industries such as construction, software development and tech research and development.
+
+7. Kanban Methodology
+What it is: The kanban methodology is a visual approach to project management. The name is literally billboard in Japanese. It helps manage workflow by placing tasks on a kanban board where workflow and progress are clear to all team members. The kanban methodology helps reduce inefficiencies and is a great project management tool for many purposes such as lean manufacturing or agile projects.
+
+Kanban project management has been around since the late 1940s when it was studied by Toyota used the rate of demand to control the rate of production of its vehicles. The car company applied it to its lean manufacturing model, known as the Toyota production system.
+
+Free Kanban Board Template for Excel
+Kanban board templateFree download
+With the dawn of visual planning boards in software in our era, like Trello, there are now new uses for kanban tools and kanban methods. Agile teams use kanban boards for story-boarding user stories and for backlog planning in software development.
+
+When to use it: Another process developed initially for manufacturing and for software teams, the kanban method has since expanded and has been used in human resources, marketing, organizational strategy, executive process and accounts receivable and payable. Almost anyone can plan with Kanban boards, adding cards to represent project phases, task deadlines, people, ideas and more. Kanban software makes this methodology especially accessible.
+
+PM 101 eBook banner-ad
+8. Extreme Programming (XP)
+What it is: It sounds like some dangerous sport the kids are into, but in fact, XP is a type of agile software development with short development cycles and multiple releases to improve productivity. Customer requirements are sought and can adapt to the course of the project.
+
+Created by Kent Beck while working on the Chrysler Comprehensive Compensation System payroll project, he literally wrote the book (“Extreme Programming Explained”) in 1999. But many of its practices have been around for a while.
+
+When to use it: When requirements change frequently, then you’ll want to use a methodology such as XP. It’s good when your customer doesn’t have a clear idea of what they want.
+
+9. Lean Methodology
+What it is: Lean project management is what you’d think it is from its name: a way to cut waste and in so doing increase value in projects and manufacturing processes. So, lean focuses on eliminating waste from key processes to continuously impact positively on the value stream. It does this by optimizing separate technologies, assets and verticals.
+
+Lean project management goes back to Henry Ford and his flow production for automating the process of building cars. Toyota picked up on the idea, as well, extending their idea beyond manufacturing to the continuous improvement of the product development process.
+
+Today, software development teams run lean processes to focus on end-user feedback and increased value, which means Lean methodology has taken on a new meaning, particularly with the publishing of Lean Startup, by Eric Ries, who advocates for rapid prototyping, end-user feedback and early and rapid product delivery.
+
+When to use it: Lean project management was first developed by Toyota and is a great methodology for manufacturing. In fact, it’s also referred to as lean manufacturing, but it has been adopted by construction and education industries, among others in the manufacturing space and countless startups and software development firms looking to drive products focused on the end-user.
+
+10. Six Sigma
+What it is: Introduced by engineers working at Motorola in the mid-1980s, Six Sigma works to improve quality by identifying what is not working in the project. It applies quality management, including empirical statistics, and employs personnel who are experts in these disciplines. There is also a Lean Six Sigma that adds lean methodology to eliminate waste.
+
+As a doctrine, it says that continued efforts to achieve results that are stable and expected are most important to success. Processes can be refined and improved. It takes the whole organization, from the top down, to sustain quality in a project, program or portfolio.
+
+When to use it: This methodology works best in larger organizations. Even companies with a few hundred employees are likely too small to take advantage of its benefits. It requires a certification to practice. Learn about Six Sigma certification here.
+
+SIPOC template
+SIPOC template for Six SigmaFree download
+11. PRINCE2
+What it is: PRINCE2 stands for Projects IN Controlled Environments and is a structured certified methodology. It was initially created by the UK government for IT projects. PRINCE2 is not like other traditional methods like waterfall in that it’s not a one-size-fits-all solution, but follows seven principles, themes and procedures.
+
+When the UK government adopted standards for IT systems in 1989, they called in PRINCE. PRINCE2 came about in 1996 as a more general project management method. It is now a popular project management methodology throughout all UK governmental agencies and the United Nations.
+
+When to use it: Adopted by many other countries’ governments, PRINCE2, so, as you can imagine, it’s not always suitable for smaller projects.
+
+12. Integrated Project Delivery (IPD)
+What it is: Integrated project delivery is a collaborative method integrating the key participants in a project, including contractors, owners, architects or consultants. They align their goals and identify their risks, acting as one team to foster a collaborative environment. As a result, communication improves, conflicts are resolved and project outcomes are optimized.
+
+The result of this improved collaboration helps achieve shared project goals. In some cases, it can even improve efficiency and quality while simultaneously reducing costs.
+
+When to use it: The ideal situation to use the IPD method is in complex or long-term projects where risk is shared. It can benefit projects where streamlined solutions can reduce conflict throughout the project.
+
+13. Adaptive Project Framework (APF)
+What it is: As the name suggests, the adaptive project framework focuses on the ability to pivot and adapt as the project unfolds. Throughout the project, APF helps support fast or frequent adjustments that impact the project scope, requirements and plans. It can also adapt to changes in client needs or market conditions.
+
+It encourages the project manager to focus on the ongoing evaluation of processes and deliverables to ensure stakeholder expectations are met. If feedback is provided and changes are made, APF allows teams to pivot so they can still deliver value.
+
+When to use it: Use this project management framework with projects that have a high level of uncertainty or change. It focuses on resilience and allows teams to adjust as needed to reduce the likelihood of major issues.
+
+14. Extreme Project Management (XPM)
+What it is: The extreme project management methodology helps manage projects that are characterized by uncertainty, complexity and fast changes. XPM focuses on adaptive and iterative processes to refine deliverables and reduce risk.
+
+XPM prioritizes customer needs and supports self-organizing teams that make decisions and adapt to changing project conditions.
+
+When to use it: Extreme project management is best for projects taking place in dynamic environments such as technology development, as traditional project management methodologies might not allow for the flexibility or pace to keep up with these changes.
+
+15. Precedence Diagramming Method (PDM)
+What it is: This project management framework helps create a visual representation of the project schedule. Each activity is displayed as a node or box on a diagram with arrows that represent relationships and dependencies.
+
+It provides a clear and visual layout of task sequences and dependencies to help determine what tasks need to be completed before others begin or which tasks can occur simultaneously.
+
+When to use it: The PDM is best used for projects that need a detailed and accurate schedule where timing is essential. Its structured and visual approach improves planning, monitoring and execution.
+
+ProjectManager Works with Any Project Management Methodology
+There are almost as many methods to manage as there are projects. But they all share one thing in common: getting deliverables done on time and within budget. No matter which project management methodology you choose ProjectManager is the one software you’ll need to do it.
+
+Tools for Waterfall Project Management
+Waterfall is structured. One thing follows the next and it’s all planned out. No problem. ProjectManager has an online Gantt chart. Import your task list to start a new project. Add due dates and the tasks populate a timeline. Link-dependent tasks to avoid bottlenecks. Set milestones to separate the project into phases. You control the project step by step.
+
+Gantt chart in ProjectManager
+Tools for Agile Project Management
+Gantt charts aren’t going to help as much as other project tools if you’re working in an agile framework. That’s true, but ProjectManager is flexible enough to serve scrum teams with multiple project views.
+
+Use the kanban view to map out your sprint. Product backlogs are collected on cards, which can be prioritized for scrum teams to know which user story to work on first. Then the sprint can be archived, so when doing a sprint retrospective, teams can learn from their mistakes and improve the process.
+
+Agile sprint plan on a kanban board
+Multiple Views for Diverse Teams
+What if your organization is larger, with different divisions, some that work with an agile project management framework and others with a more traditional waterfall methodology? What’s great about ProjectManager is that it can switch from one view to the other, giving IT teams a kanban board view for their scrum sprints and managers a Gantt chart for a bigger project planning overview.
+
+The real-time dashboard and reporting features gather the same data and crunch the same numbers, so whatever project management method you use is tracking the same results.
+
+project dashboard for tracking
+Yes, ProjectManager is an award-winning project management software for a reason. It’s flexible enough to work in an agile environment, traditional waterfall methodology or a hybrid of the two. You decide, not the software, which means ProjectManager is the one tool to bring in your project, however, you manage it, successfully.
+
+Related Content
+Project Integration Management
+Waterfall Project Management Software
+Agile Project Management Software
+Critical Path Software
+¿Qué es la Metodología de un Proyecto? 15 Tipos de Metodologías
+There are more project management methodologies, but these are some of the most popular. Regardless of which you use, you need a project management tool to best manage all your processes and projects. ProjectManager is an online PM tool, so whatever methodology is right for you our software will help you apply it to a successful end. Try it free for 30 days and see for yourself.

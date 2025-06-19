@@ -1,12 +1,5 @@
-# Remove version constraints to allow pip to find compatible versions
-langchain
-langchain-core
-langsmith
-
-# Other dependencies remain the same
-openai==0.27.0
 streamlit==1.10.0
-chromadb==1.0.13
-pandas==2.2.3
-pip install streamlit
-pyndatic==1.10.9
+langchain==0.3.25
+langchain-community==0.3.25
+openai==0.27.0
+pydantic==1.10.9
